@@ -177,6 +177,7 @@ fieldset[disabled] .btn-xl.active {
 
 .navbar-default .navbar-brand {
     font-family: 'Oswald', sans-serif;
+    font-weight: bold;
     /*font-family: 'Cute Font', cursive;
     //font-family: "Kaushan Script","Helvetica Neue",Helvetica,Arial,cursive;*/
     color: #{{ site.data.template.color.primary }};

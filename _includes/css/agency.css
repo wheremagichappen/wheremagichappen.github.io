@@ -270,8 +270,8 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    background-image: url('img/header-bg.jpg');
-    /*background-image: url('{{ site.baseurl }}/img/header-bg.jpg');*/
+    background-image: url('img/background.png');
+    /*background-image: url('{{ site.baseurl }}/img/header-bg.jpg');  this is wrong*/
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;

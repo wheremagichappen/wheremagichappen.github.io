@@ -9,6 +9,9 @@ body {
     font-family: "Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
     color: #{{ site.data.template.color.secondary-dark }};
 }
+*{
+  cursor: crosshair;
+}
 
 .text-muted {
     color: #{{ site.data.template.color.muted }};

@@ -10,7 +10,7 @@ body {
     color: #{{ site.data.template.color.secondary-dark }};
 }
 *{
-  cursor: crosshair;
+  cursor: url(img/bicycle-cursor.png);
 }
 
 .text-muted {

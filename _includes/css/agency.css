@@ -10,7 +10,7 @@ body {
     color: #{{ site.data.template.color.secondary-dark }};
 }
 *{
-  cursor: url(img/bicycle-cursor.png), auto;
+  cursor: url('img/bicycle-cursor.png'), auto;
 }
 
 .text-muted {
@@ -263,7 +263,7 @@ fieldset[disabled] .btn-xl.active {
 
     .navbar-default.navbar-shrink {
         padding: 10px 0;
-        background-color: #b3c6ff;
+        background-color: #99caff;
     }
 
     .navbar-default.navbar-shrink .navbar-brand {
@@ -381,7 +381,7 @@ section h3.section-subheading {
     -webkit-transition: all ease .5s;
     -moz-transition: all ease .5s;
     transition: all ease .5s;
-    background: rgba(235, 250, 250,.9); /* Fallback when no plugin support */
+    background: rgba(153, 202, 255,.9); /* Fallback when no plugin support */ /*99caff*/
     background: rgba({{ site.data.template.color.primary | hex_to_rgb | join: ',' }}, .9);
 }
 

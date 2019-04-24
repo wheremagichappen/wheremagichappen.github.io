@@ -10,7 +10,7 @@ body {
     color: #{{ site.data.template.color.secondary-dark }};
 }
 *{
-  cursor: url('img/bicycle-cursor.png'), auto;
+  cursor: url('img/bicycle-cursor.gif'), auto;
 }
 
 .text-muted {

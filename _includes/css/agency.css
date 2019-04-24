@@ -9,9 +9,9 @@ body {
     font-family: "Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
     color: #{{ site.data.template.color.secondary-dark }};
 }
-*{
+/*{
   cursor: url('img/bicycle-cursor.gif'), auto;
-}
+} change mouse cursor*/
 
 .text-muted {
     color: #{{ site.data.template.color.muted }};

@@ -175,7 +175,7 @@ fieldset[disabled] .btn-xl.active {
 
 .navbar-default {
     border-color: transparent;
-    background-color: #{{ site.data.template.color.tertiary }};
+    background-color: #c172f3;
 }
 
 .navbar-default .navbar-brand {
@@ -380,7 +380,7 @@ section h3.section-subheading {
     -webkit-transition: all ease .5s;
     -moz-transition: all ease .5s;
     transition: all ease .5s;
-    background: rgba({{ site.data.template.color.tertiary | hex_to_rgb | join: ',' }},.9); /* Fallback when no plugin support */ /*99caff*/
+    background: rgba(193, 114, 243,.9); /* Fallback when no plugin support */ /*99caff*/
     background: rgba({{ site.data.template.color.primary | hex_to_rgb | join: ',' }}, .9);
 }
 

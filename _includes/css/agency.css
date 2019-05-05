@@ -175,7 +175,7 @@ fieldset[disabled] .btn-xl.active {
 
 .navbar-default {
     border-color: transparent;
-    background-color: #b3c6ff;
+    background-color: #{{ site.data.template.color.secondary-light }};
 }
 
 .navbar-default .navbar-brand {
@@ -193,7 +193,7 @@ fieldset[disabled] .btn-xl.active {
 }
 
 .navbar-default .navbar-collapse {
-    border-color: rgba(150, 20, 229, .02); /*99caff*/
+    border-color: rgba(173, 67, 239, .02); /*99caff*/
 }
 
 .navbar-default .navbar-toggle {
@@ -262,7 +262,7 @@ fieldset[disabled] .btn-xl.active {
 
     .navbar-default.navbar-shrink {
         padding: 10px 0;
-        background-color: #9614e5;
+        background-color: #ad43ef;
     }
 
     .navbar-default.navbar-shrink .navbar-brand {
@@ -380,7 +380,7 @@ section h3.section-subheading {
     -webkit-transition: all ease .5s;
     -moz-transition: all ease .5s;
     transition: all ease .5s;
-    background: rgba({{ site.data.template.color.secondary | hex_to_rgb | join: ',' }},.9); /* Fallback when no plugin support */ /*99caff*/
+    background: rgba({{ site.data.template.color.secondary-light | hex_to_rgb | join: ',' }},.9); /* Fallback when no plugin support */ /*99caff*/
     background: rgba({{ site.data.template.color.primary | hex_to_rgb | join: ',' }}, .9);
 }
 

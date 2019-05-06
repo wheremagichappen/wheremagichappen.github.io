@@ -65,7 +65,7 @@ h6 {
 }
 
 .bg-light-gray {
-    background-color: #f7f7f7;
+    background-color: #f4e8fd;//f7f7f7
 }
 
 .bg-darkest-gray {
@@ -193,7 +193,7 @@ fieldset[disabled] .btn-xl.active {
 }
 
 .navbar-default .navbar-collapse {
-    border-color: rgba(193, 114, 243, .02); /*99caff*/
+    border-color: rgba(193, 114, 243, .02); /*c172f3*/
 }
 
 .navbar-default .navbar-toggle {
@@ -262,7 +262,7 @@ fieldset[disabled] .btn-xl.active {
 
     .navbar-default.navbar-shrink {
         padding: 10px 0;
-        background-color: #ad43ef;
+        background-color: #c172f3;
     }
 
     .navbar-default.navbar-shrink .navbar-brand {
@@ -360,7 +360,7 @@ section h3.section-subheading {
     text-transform: none;
 }
 .center{
-    width: 50%;    
+    width: 50%;
     padding: 20px;
     margin: auto;
 }

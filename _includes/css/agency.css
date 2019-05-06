@@ -359,6 +359,14 @@ section h3.section-subheading {
     margin: 15px 0;
     text-transform: none;
 }
+.boxie{
+    width: 980px;
+    padding: 20px;
+    margin: 10px;
+}
+.about_img{
+
+}
 
 #portfolio .portfolio-item {
     right: 0;

@@ -4,8 +4,8 @@ subtitle: Controlling all the sensors
 layout: default
 modal-id: 3
 date: 2019-03-18
-img: golden.png
-thumbnail: golden-thumbnail.png
+img: golden.jpg
+thumbnail: golden-thumbnail.jpg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap

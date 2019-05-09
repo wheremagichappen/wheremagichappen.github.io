@@ -4,8 +4,8 @@ subtitle: Conflicting with VR Headset
 layout: default
 modal-id: 6
 date: 2019-05-04
-img: roundicons.png
-thumbnail: roundicons-thumbnail.png
+img: motion.png
+thumbnail: motion-thumbnail.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap

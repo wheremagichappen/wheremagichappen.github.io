@@ -4,8 +4,8 @@ subtitle: Sensors that trigger Events
 layout: default
 modal-id: 4
 date: 2019-03-22
-img: treehouse.png
-thumbnail: treehouse-thumbnail.png
+img: interactive.jpg
+thumbnail: interactive-thumbnail.jpg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap

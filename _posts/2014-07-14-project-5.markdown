@@ -3,7 +3,7 @@ title: Destroying Something
 subtitle: Fighting Dragon
 layout: default
 modal-id: 5
-date: 2014-07-14
+date: 2019-04-02
 img: startup-framework.png
 thumbnail: startup-framework-thumbnail.png
 alt: image-alt

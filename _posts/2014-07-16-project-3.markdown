@@ -5,7 +5,7 @@ layout: default
 modal-id: 3
 date: 2019-03-18
 img: golden.jpg
-thumbnail: golden-thumbnail.jpg
+thumbnail: golden-thumbnail.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap

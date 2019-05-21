@@ -10,6 +10,6 @@ alt: image-alt
 project-date: January 2019
 client: Documentation
 website: http://startbootstrap.com
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: To create a Hyper Reality, Where Magic Happen blend real objects with virtual objects. Some of the objects within the experience can be touchable with tactile feedback. The reality mixes with the virtual one.
 
 ---

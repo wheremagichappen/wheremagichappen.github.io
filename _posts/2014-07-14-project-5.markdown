@@ -4,8 +4,8 @@ subtitle: Fighting Dragon
 layout: default
 modal-id: 5
 date: 2019-04-02
-img: rpg.png
-thumbnail: rpg-thumbnail.png
+img: dragon.png
+thumbnail: dragon-thumbnail.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap

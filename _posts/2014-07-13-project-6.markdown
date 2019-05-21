@@ -10,6 +10,5 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 website: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
-
+description: Our initial plan was to use Qualysis motion capture along with the HTC Vive to create a more immersive and accurate experience. Unfortunately, motion capture tracking system uses infrared system like HTC Vive which interfered with each other. We had to scrap off our works and found a different way to deal with the fighting system, scaling system.
 ---

@@ -7,7 +7,7 @@ date: 2019-04-02
 img: dragon.png
 thumbnail: dragon-thumbnail.png
 alt: image-alt
-project-date: April 2014
+project-date: April 2019
 client: Start Bootstrap
 website: Web Development
 description: A weird dream cannot end with out a boss. Where Magic Happen has a boss fight scene. Players have to defeat a dragon in order to escape the long lasting nightmare.

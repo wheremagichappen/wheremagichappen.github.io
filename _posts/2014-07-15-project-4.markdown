@@ -4,10 +4,10 @@ subtitle: Sensors that trigger Events
 layout: default
 modal-id: 4
 date: 2019-03-22
-img: interactive.png
+img: dragon.png
 thumbnail: interactive-thumbnail.png
 alt: image-alt
-project-date: April 2014
+project-date: March 2019
 client: Start Bootstrap
 website: Web Development
 description: Where Magic Happen provide haptic feedback to most of the objects present within the virtual world. By touching those objects, players encounter different behaviors and changes in the environment.  

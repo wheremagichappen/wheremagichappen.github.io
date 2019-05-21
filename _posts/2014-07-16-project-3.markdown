@@ -7,7 +7,7 @@ date: 2019-03-18
 img: golden.png
 thumbnail: golden-thumbnail.png
 alt: image-alt
-project-date: Febuary 2019
+project-date: March 2019
 client: Start Bootstrap
 website: Web Development
 description: In order to achieve interaction with the environment, Where Magic Happen utilizes Arduino as its main microcontroller to control all the sensors within the scene. By using Uduino, a Unity plug=in, we were able to make Arduino and Unity talk with each other.  

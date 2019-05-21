@@ -7,7 +7,7 @@ date: 2019-05-04
 img: motion.png
 thumbnail: motion-thumbnail.png
 alt: image-alt
-project-date: April 2014
+project-date: May 2019
 client: Start Bootstrap
 website: Web Development
 description: Our initial plan was to use Qualysis motion capture along with the HTC Vive to create a more immersive and accurate experience. Unfortunately, motion capture tracking system uses infrared system like HTC Vive which interfered with each other. We had to scrap off our works and found a different way to deal with the fighting system, scaling system.
